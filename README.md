@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning AWS, ..., and Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, Iceberg, Presto, Spark, Flink, Scio, Beam, Dataflow, Crunch, Scalding, Storm, BigQuery, M/R, Metastore, Flume, Kafka, ClickHouse, Druid, Impala Elasticsearch, and other SQL like abstractions etc.)
 - 💞️ I’m looking to collaborate on Projects in the Data Science, Data Engineering, and Machine Learning community etc
-- 📫 How to reach me: [LinkedIn 1](https://www.linkedin.com/in/saoyedotun/), [LinkedIn 2](https://www.linkedin.com/in/saoyedotun/), [email 1](oyedotunsodiq045@gmail.com), [email 2](oyedotunsodiq045@yahoo.com), [email 3](saoyedotun@ualr.edu)
+- 📫 How to reach me: [LinkedIn 1](https://www.linkedin.com/in/saoyedotun/), [LinkedIn 2](https://www.linkedin.com/in/saoyedotun/), [gmail](oyedotunsodiq045@gmail.com), [yahoo](oyedotunsodiq045@yahoo.com), [email](saoyedotun@ualr.edu)
 - 💬 Ask me about Open source Contribution, and Volunteering!
 
 <!---
