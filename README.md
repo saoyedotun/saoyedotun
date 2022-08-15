@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saoyedotun.
+- 👋 Hi, I’m [Sodiq Oyedotun](http://oyedotunsodiq.glitch.me/) aka Major Stark, aka TheKaliDebian, aka Big Propeller, aka Big Man Tingz.
 - 👀 I'm actively looking for full time position in Data Engineering, Application[Solution] Developer[Engineer] etc
 - 🌱 I’m currently learning AWS, and Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, Iceberg, Presto, Spark, Flink, Scio, Beam, Dataflow, Crunch, Scalding, Storm, BigQuery, M/R, Metastore, Flume, Kafka, ClickHouse, Druid, Impala Elasticsearch, and other SQL like abstractions etc.)
 - 💞️ I’m looking to collaborate on Projects in the Data Science, Data Engineering, and Machine Learning community etc
