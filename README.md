@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Sodiq Oyedotun](http://oyedotunsodiq.glitch.me/) aka Major Stark, aka TheKaliDebian, aka Big Propeller, aka Big Man Tingz
+- 👋 Hi, I’m [Sodiq Oyedotun](http://oyedotunsodiq.glitch.me/)
 - 👀 I'm actively looking for full time position in Data Engineering, Application[Solution] Developer[Engineer] etc
 - ⭐ I've 6+ years of experience as a Software Engineer, IT & Technology Support in the Advertising, Marketing, Consulting, Insurance, Financial, and IT services sector
 - 😎 Some projects I've personally worked on include: [StarkTechBank](https://starktechbank.herokuapp.com/), [Revie](http://revie.glitch.me/), [SoftOverflow](https://softoverflow.herokuapp.com/)
